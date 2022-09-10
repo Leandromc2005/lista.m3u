@@ -1,20 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="Link de imagen" group-title="Estreno",Thor amor y trueno.
+#EXTINF:-1 tvg-id="duración del video" tvg-logo="https://pics.filmaffinity.com/Thor_Love_and_Thunder-566116133-large.jpg" group-title="Estreno",Thor amor y trueno.
 https://vd294.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1662931269898&srcIp=186.101.15.37&srcAg=CHROME_ANDROID&ms=185.226.52.44&type=4&sig=iC7r4rQ3viw&ct=8&urls=45.136.22.13&clientType=0&id=3018582067888
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Estreno",Éxodo la última marea.
-https://delivery389.akamai-cdn-content.com/hls2/01/07321/oia3jbhlcdnf_l/index-v1-a1.m3u8?t=S_vlliUatRefANF3mhoRbfxCks2v185cJNJP4yUCPrU&s=1662846540&e=10800&f=36605337&srv=sto072&client=163.107.191.90
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Link de imagen" group-title="Estreno",Furia de la montaña.
-https://fio166p.dood.video/u5kjunal3dg3sdgge74feoqvjqds345hqesyfg6yfczn4dx3asavmjst7mlq/f2ujmshgk7~zMquY4UqmY?token=hghg2xh1zmtpnbzl8kqta1au&expiry=1662846974355
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Link de imagen" group-title="Estreno",dragón ball super hero.
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Link de imagen" group-title="Estreno",Dragón ball super hero.
-https://fvs.io/redirector?token=TE5HdUpWa2UvM2VIMmNzZHJ4L3BkZGlHRXFnS0d1bzdMQ0xjL3BLVXJES2xmNGc5OVBmdE54WGhWZ1FzTHRBWEpaSDZjUEJQQlJSdEVId3p4VnJkNW9vQkZtQklZdXkxTnI5VUVPNHEyZ3JTRTJGUnlpS1lJWlJXQW8rSGgwZkJ1eXlDTHZ2amRmNkZFY1h4alBTWFV0WHNRM1FrcC9pdjJQMGg6SjA1MjVrakNldm9hM1RGWGNCY2pKQT09sPYu
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Link de imagen" group-title="Estreno",.
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Link de imagen" group-title="Estreno",Thor amor y trueno.
